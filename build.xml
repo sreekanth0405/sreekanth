@@ -1,0 +1,8 @@
+<?xml version="1.0" ?> 
+<project name="AntEx" default="info">
+
+<target name="info">
+<echo> praise the lord</echo>
+</target>
+
+</project>
